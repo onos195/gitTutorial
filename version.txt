@@ -1,4 +1,8 @@
 version 1 
 version 3
 version 2
+<<<<<<< HEAD
 Updating on remote repository
+=======
+bitbucket editing remotely
+>>>>>>> 4c08cf497cc3b8eb7d14b52194960c4574c5d422
