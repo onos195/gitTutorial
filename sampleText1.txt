@@ -1,3 +1,0 @@
-this is a sample test
-updating file 1
-some new file changes.
