@@ -5,3 +5,4 @@ Updating on remote repository
 bitbucket editing remotely
 adding from github
 updating locally
+new update from remote
